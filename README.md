@@ -3,7 +3,7 @@
 [![NestJS](https://img.shields.io/badge/NestJS-v10.0.0-red.svg?style=flat-square&logo=nestjs)](https://nestjs.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-v5.0.0-blue.svg?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-v18.0.0-green.svg?style=flat-square&logo=node.js)](https://nodejs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v14.0.0-blue.svg?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+
 [![Sequelize](https://img.shields.io/badge/Sequelize-v6.0.0-blue.svg?style=flat-square&logo=sequelize)](https://sequelize.org/)
 [![JWT](https://img.shields.io/badge/JWT-Auth-yellow.svg?style=flat-square&logo=jsonwebtokens)](https://jwt.io/)
 [![Swagger](https://img.shields.io/badge/Swagger-API%20Docs-green.svg?style=flat-square&logo=swagger)](https://swagger.io/)
@@ -16,7 +16,7 @@
 
 - **后端框架**: NestJS
 - **编程语言**: TypeScript
-- **数据库**: PostgreSQL
+- **数据库**: MySQL
 - **ORM**: Sequelize
 - **认证**: JWT
 - **API 文档**: Swagger
